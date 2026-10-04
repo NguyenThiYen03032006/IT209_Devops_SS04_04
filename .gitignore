@@ -1,0 +1,14 @@
+# Sensitive files
+credentials.txt
+
+# Environment files
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
